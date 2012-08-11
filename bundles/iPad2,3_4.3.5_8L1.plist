@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>URL</key>
+		<string>http://appldnld.apple.com/iPhone4/041-1962.20110721.rWxrf/iPad2,3_4.3.5_8L1_Restore.ipsw</string>
+		<key>Version</key>
+		<string>4.3.5</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>FileSystem</key>
+		<dict>
+			<key>FileName</key>
+			<string>038-2281-002.dmg</string>
+			<key>VFDecryptKey</key>
+			<string>369474d8df6b2c874a3fb5aa63cf23f7a891363863cf829f7e85ee631318f2674fed6733</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

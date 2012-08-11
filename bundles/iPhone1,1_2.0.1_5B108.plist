@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>URL</key>
+		<string>http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5135.20080729.Vfgtr/iPhone1,1_2.0.1_5B108_Restore.ipsw</string>
+		<key>Version</key>
+		<string>2.0.1</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>FileSystem</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-3884-4.dmg</string>
+			<key>VFDecryptKey</key>
+			<string>2cfca55aabb22fde7746e6a034f738b7795458be9902726002a8341995558990f41e3755</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

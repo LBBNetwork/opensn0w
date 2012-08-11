@@ -1,0 +1,8 @@
+HOW TO INSTALL
+==============
+
+- Run `./autogen.sh`
+- Run `./configure --prefix=/your/install/dir/here`
+- Run `make; make install`
+- Done.
+

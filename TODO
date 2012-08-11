@@ -1,0 +1,25 @@
+Todo
+----
+
+[DONE] Windows support (probably broken since 2.0)
+    - Now needs support for the Windows Driver Kit.
+
+[IN PROGRESS] Mac OS X support (again broken)
+[DONE] IOKit backend for OS X 
+    - NOTE: Apple's kexts still suck.
+      USBF:	227607.586	AppleUSBEHCI[0xffffff802e887000]::Found a transaction past the completion deadline on bus 0xfd, timing out! (Addr: 2, EP: 0)
+
+[ ] iBoot/kernel patches for:
+    - 2.x
+    - 2.1.x
+    - 3.0.x <- iBoot is done(?)
+    - 3.1.x
+    - 3.2.x
+    - 4.x
+    - 4.1.x
+    - 4.2.x
+    - 4.3.x
+
+[ ] 8900 support
+[ ] Jailbreak ramdisks
+[ ] Graphical UIs.

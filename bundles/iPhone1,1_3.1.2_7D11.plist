@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>URL</key>
+		<string>http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-7268.20091008.32pNe/iPhone1,1_3.1.2_7D11_Restore.ipsw</string>
+		<key>Version</key>
+		<string>3.1.2</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>AppleLogo</key>
+		<dict>
+			<key>FileName</key>
+			<string>Firmware/all_flash/all_flash.m68ap.production/applelogo.s5l8900x.img3</string>
+			<key>IV</key>
+			<string>677b4c711e3cacb72505feae8e1eae5d</string>
+			<key>Key</key>
+			<string>1fb738d6c091113d7dfdd89864a718d9</string>
+		</dict>
+		<key>FileSystem</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-6028-014.dmg</string>
+			<key>VFDecryptKey</key>
+			<string>fe431a1e436e5298d3c871359768aab43189fd5e7375a2ced3405dd8a223879a4d64a28e</string>
+		</dict>
+		<key>Recovery</key>
+		<dict>
+			<key>FileName</key>
+			<string>Firmware/all_flash/all_flash.m68ap.production/recoverymode.s5l8900x.img3</string>
+			<key>IV</key>
+			<string>dbf44c3cc2944b87bdecdbdcd8e42b82</string>
+			<key>Key</key>
+			<string>6d7d035c04c60ab2776a5e7c729daf0a</string>
+		</dict>
+		<key>RestoreRamdisk</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-6136-014.dmg</string>
+			<key>IV</key>
+			<string>0e128e1f69806afc476b73250908d641</string>
+			<key>Key</key>
+			<string>6a4db11073eb748bad1fabafb066fe13</string>
+		</dict>
+		<key>iBoot</key>
+		<dict>
+			<key>FileName</key>
+			<string>Firmware/all_flash/all_flash.m68ap.production/iBoot.m68ap.RELEASE.img3</string>
+			<key>IV</key>
+			<string>db240b5ba6163898bbbc055be2276ea0</string>
+			<key>Key</key>
+			<string>a0ae133d5de080b4341d3eeb8aff63d4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

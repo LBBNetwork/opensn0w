@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>URL</key>
+		<string>http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6580.20090617.XsP76/iPhone1,1_3.0_7A341_Restore.ipsw</string>
+		<key>Version</key>
+		<string>3.0</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>FileSystem</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-5301-002.dmg</string>
+			<key>VFDecryptKey</key>
+			<string>25cce378de209d8fb6ec45ecbe7525695272b81fe38bbad76e979ac3921c3614ed162c87</string>
+		</dict>
+		<key>RestoreRamdisk</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-5305-002.dmg</string>
+			<key>IV</key>
+			<string>caca33f1aca029320d60873a4deed68d</string>
+			<key>Key</key>
+			<string>9962589aabb4d5ec56b7a867ab5b11b0</string>
+		</dict>
+		<key>UpdateRamdisk</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-5303-002.dmg</string>
+			<key>IV</key>
+			<string>0dc67d4f50ac62ee142b99baa569d0f4</string>
+			<key>Key</key>
+			<string>5a0f82979f336baa58ed37926bd89dfe</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

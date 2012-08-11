@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>URL</key>
+		<string>http://appldnld.apple.com/iPhone4/041-1964.20110721.P9Cg3/iPod3,1_4.3.5_8L1_Restore.ipsw</string>
+		<key>Version</key>
+		<string>4.3.5</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>AppleLogo</key>
+		<dict>
+			<key>FileName</key>
+			<string>Firmware/all_flash/all_flash.n18ap.production/applelogo.s5l8922x.img3</string>
+			<key>IV</key>
+			<string>f2b82e309b4086eab1ab45b8a33ac9f4</string>
+			<key>Key</key>
+			<string>df1dbdcd3075dd849b7a2eaa327a0702e1f104e65c2e9f76178438144fd40f46</string>
+		</dict>
+		<key>FileSystem</key>
+		<dict>
+			<key>FileName</key>
+			<string>038-2286-002.dmg</string>
+			<key>VFDecryptKey</key>
+			<string>527d77b552fa1fa3708f5c3c2feff8641c7716a24df4dbb49613d0776a7afa3ab9cf95dd</string>
+		</dict>
+		<key>KernelCache</key>
+		<dict>
+			<key>FileName</key>
+			<string>kernelcache.release.n18</string>
+			<key>IV</key>
+			<string>e95b30ff09aad7c5c065f66e64b57366</string>
+			<key>Key</key>
+			<string>97489b74ad1a935ab21f7e7bcf723d75b8b6389d60a3c5d4f7b423d1ebae6198</string>
+		</dict>
+		<key>iBSS</key>
+		<dict>
+			<key>FileName</key>
+			<string>Firmware/dfu/iBSS.n18ap.RELEASE.dfu</string>
+			<key>IV</key>
+			<string>0883a549b9d4e1bc0b6efd995e91ae20</string>
+			<key>Key</key>
+			<string>8e01489f416ff819089b1a2027802ea96ca6100107164686fe4c1cbeaa138c3c</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>Version</key>
+		<string>4.0</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>FileSystem</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-7721-002.dmg</string>
+			<key>VFDecryptKey</key>
+			<string>21d0c050aa528124eb5e0a998fe4a7581e7325ce38c3b3ebaf36cc5b326d8c1859e49c2e</string>
+		</dict>
+		<key>RestoreRamdisk</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-7707-001.dmg</string>
+			<key>IV</key>
+			<string>7bf559e4bf14638cb6555a93253d6a1d</string>
+			<key>Key</key>
+			<string>f1f23cb95adbdede8dd780a1d918e78e</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

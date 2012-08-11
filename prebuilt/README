@@ -1,0 +1,4 @@
+The *only* reason why this is here is because libusb on OS X
+is so unreliable. There are so many configurations, and barely any work.
+
+This one should work. It has been supplied here for your convenience.

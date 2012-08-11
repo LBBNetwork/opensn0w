@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwareInfo</key>
+	<dict>
+		<key>URL</key>
+		<string>http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5778.20081120.Aqw4R/iPhone1,2_2.2_5G77_Restore.ipsw</string>
+		<key>Version</key>
+		<string>2.2</string>
+	</dict>
+	<key>FirmwareKeys</key>
+	<dict>
+		<key>RestoreRamdisk</key>
+		<dict>
+			<key>FileName</key>
+			<string>018-4378-1.dmg</string>
+			<key>IV</key>
+			<string>182cdda90a38870de96880ee7ff5bbbc</string>
+			<key>Key</key>
+			<string>eea6e87824a3c0b0be86e8e2bbd8cfe9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
